@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "atlas-editorial-agent",
+  "repository": "Abby263/ai-agent-blog-generator",
+  "catalog": "candidate",
+  "availability": "request_integration",
+  "name": "Atlas Editorial Agent",
+  "category": "Marketing operations",
+  "description": "Plan, draft, and review a long-form manuscript.",
+  "request": "Topic, audience, format, and source material.",
+  "response": "A draft manuscript and review artifacts.",
+  "integration": {
+    "operation": "Create a reviewable manuscript draft.",
+    "readiness": "Validate a hosted run and artifact retrieval. Keep publication out of the first integration and review commercial-use terms."
+  }
+}
